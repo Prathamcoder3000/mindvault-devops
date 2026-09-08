@@ -33,3 +33,5 @@ assignment.complete_assignment()
 
 print("After completing assignment:")
 assignment.display_assignment()
+
+print("CI/CD Pipeline Working Successfully!")
